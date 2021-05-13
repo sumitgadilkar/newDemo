@@ -1,10 +1,2 @@
-welcome
-
-
-
-changes made to this file second time.
-test
-
-
-
-sumit!!!!!!!!!!!
+welcome!
+This is branch1 - sample.txt
