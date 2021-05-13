@@ -1,14 +1,7 @@
-Welcome
-
-
-
-changes made to this file second time.
 <<<<<<< HEAD
-
+Welcome
+This is master file.
 =======
-test
-
-
-
-sumit!!!!!!!!!!!
+welcome!
+This is branch1 - sample.txt
 >>>>>>> branch1
