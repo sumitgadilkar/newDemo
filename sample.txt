@@ -1,6 +1,2 @@
 Welcome
-
-
-
-changes made to this file second time.
-
+This is master file.
